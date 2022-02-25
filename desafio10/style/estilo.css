@@ -38,9 +38,10 @@ html {
 }
 
 body {
+    width: 1280px;
+    background-size: 100% 100%;
     background-color: var(--cor0);
     font-family: var(--fonte-padrão);
-    width: 1150px;
 }
 
 a.externo::after {
